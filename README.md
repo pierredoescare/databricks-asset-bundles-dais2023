@@ -44,6 +44,3 @@ Make sure you have the Databricks CLI installed, then you can use the `databrick
 databricks bundle deploy
 databricks bundle run fe_medium_metrics
 ```
-
-## Questions?
-Please email dabs-preview@databricks.com if you have questions on DABs or if you have questions on the code in this repo, please email rafi.kurlansik@databricks.com
